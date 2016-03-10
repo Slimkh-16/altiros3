@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'HattoriHanzoLight';
+  src: url("../fonts/HattoriHanzoLight.eot");
+  src: url("../fonts/HattoriHanzoLight.eot") format("embedded-opentype"),
+  	   url("../fonts/HattoriHanzoLight.woff") format("woff"), 
+  	   url("../fonts/HattoriHanzoLight.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LinBiolinum_R';
+  src: url("../fonts/LinBiolinum_R.eot");
+  src: url("../fonts/LinBiolinum_R.eot") format("embedded-opentype"),
+  	   url("../fonts/LinBiolinum_R.woff") format("woff"), 
+  	   url("../fonts/LinBiolinum_R.woff2") format("woff2"), 
+  	   url("../fonts/LinBiolinum_R.otf") format("otf"), 
+  	   url("../fonts/LinBiolinum_R.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
